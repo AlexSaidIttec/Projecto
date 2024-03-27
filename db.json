@@ -1,0 +1,28 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Mouse",
+            "Precio": "30",
+            "Url": "https://www.efrasystem.com/wp-content/uploads/2020/05/micro_travel.jpg"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Teclado",
+            "Precio": "60",
+            "Url": "https://images-na.ssl-images-amazon.com/images/I/51nmAki5nnL.jpg"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Monitor",
+            "Precio": "90",
+            "Url": "https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/22mp410-b_awf_espr_pe_c/Basic-350.jpg"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Case",
+            "Precio": "120",
+            "Url": "https://www.profesionalreview.com/wp-content/uploads/2018/10/Tipos-de-torres-chasis-o-cajas-para-PC-2.jpg"
+        }
+    ]
+}
